@@ -1,5 +1,5 @@
 # Multi-Subnet-IP-Routing
-![Network Topology](topology.png)
+![Network Topology](topology.png.png)
 Advanced Cisco Packet Tracer lab demonstrating inter-VLAN style routing across four distinct subnets using a centralized 2811 router gateway
 # Multi-Subnet Network Infrastructure & IP Routing
 
